@@ -1,0 +1,7 @@
+{
+  "name": "VerdantCare",
+  "description": "Botanical Sanctuary & Ambient Vitality Monitor for managing indoor plants, microclimate photometrics, and watering schedules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
